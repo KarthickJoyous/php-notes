@@ -1,0 +1,11 @@
+OOP - Object-oriented programming.
+
+OOP is used to organize code into classes and objects, allowing for more modular, reusable, and maintainable code.
+
+OOP is all about 👇🏻 :
+
+    - Class & Objects.
+    - Encapsulation.
+    - Abstraction.
+    - Inheritance.
+    - Polymorphism.

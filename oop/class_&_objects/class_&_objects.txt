@@ -1,0 +1,5 @@
+Class :
+    A class is a template/blueprint for objects. A class contains properties & methods.
+
+Object : 
+    An object is an instance of class. An object has all the properties & methods defined in the class.

@@ -1,0 +1,13 @@
+Interface :
+    Interfaces allow you to specify what methods a class should implement.
+    An interfaces class is a class that you can’t instantiate. 
+    When one or more classes use the same interface, it is referred to as "polymorphism".
+    
+Behaviour :
+    Properties ❌
+    Methods with body ❌
+    Signatures ✅
+
+Keywords :
+    interface
+    implements

@@ -1,0 +1,8 @@
+Inheritance :
+    Inheritance allows a class (known as a child class or subclass) to inherit non-private properties and methods from another class (known as a parent class or superclass). 
+    This facilitates code reuse and promotes a hierarchical structure in your codebase.
+
+    Inheritance allows for polymorphism, where objects of different subclasses can be treated as objects of the same superclass, making it easier to write generic code.
+    
+Keyword :
+    extends

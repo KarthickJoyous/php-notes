@@ -1,0 +1,21 @@
+Abstract :
+    An abstract is a blueprint for other classes.
+    An abstract class is a class that you can’t instantiate and can only extend by subclasses. 
+    Abstract classes can have both abstract and non-abstract methods. 
+    Abstract methods do not have a body and you must implement them by any subclass that extends the abstract class. 
+    Non-abstract methods have a body and you can directly call them by the subclass.
+
+When a child class is inherited from an abstract class, we have the following rules:
+
+    - The child class method must be defined with the same name and it redeclares the parent abstract method.
+    - The child class method must be defined with the same or a less restricted access modifier.
+    - The number of required arguments must be the same. However, the child class may have optional arguments in addition.
+
+Behaviour :
+    Properties ✅
+    Signatures ✅
+    Methods with body ✅
+
+Keywords :
+    abstract
+    extends

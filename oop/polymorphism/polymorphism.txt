@@ -1,0 +1,10 @@
+Polymorphism (Many Forms):
+    - Polymorphism refers to the ability of objects to take on different forms and exhibit different behaviors while sharing a common interface.
+    - Polymorphism makes it easy to use a variety of different objects in the same way.
+    - Methods in different classes that do `similar things` (each in different) should have the `same name`.
+    (similar thing - calculating area of shape | each in different - each shape has unique way of calculating area)
+    - To implement polymorphism in PHP, you can use either abstract classes or interfaces.
+
+Keywords :
+    - abstract
+    - interface

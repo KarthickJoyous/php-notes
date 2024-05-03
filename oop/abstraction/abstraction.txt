@@ -1,0 +1,8 @@
+Abstraction :
+    - Abstraction is the any representation of data in which the implementation details are hidden.
+    - Hide implementation & complexity, show only essentials.
+
+Abstraction is all about 👇🏻 :
+
+    - Abstract.
+    - Interface.

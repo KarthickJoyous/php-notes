@@ -1,0 +1,19 @@
+Encapsulation : 
+    Bundling (properties) and (methods) into a single unit or class.
+    This unit or class controls access to the properties & methods, ensuring that it is only accessed and modified in appropriate ways.
+
+Encapsulation is all about 👇🏻 :
+
+    Access modifiers : 
+
+        - public
+        - protected
+        - private
+
+    1.Public: Public members are accessible from outside the class. They can be accessed from anywhere, even outside of the class itself.
+
+    2.Protected: Protected members are accessible within the class itself and by subclasses (child classes) but not from outside the class.
+
+    3.Private: Private members are accessible only within the class itself. They cannot be accessed from outside the class or by subclasses.
+
+Note : In a class the properties & methods can be defined with any type of access modifiers.
