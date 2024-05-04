@@ -1,0 +1,9 @@
+Static Members :
+    - Static members are the same class members (properties & methods), but defined with a keyword `static`.
+    - These static members can be accessed directly without creating an instance of that class.
+    - To access the static members, use resolution operator `::`.
+
+Keywords :
+    - static.
+    - self.
+    - resolution operator `::`.

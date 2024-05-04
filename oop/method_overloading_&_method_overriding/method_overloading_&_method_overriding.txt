@@ -1,0 +1,16 @@
+Method Overloading :
+    - Method overloading is the ability to define multiple methods in a class with the same name but with different parameters or different number of parameters. 
+    - PHP does not support method overloading directly. 
+    - In PHP, you can't define multiple methods with the same name but different parameters within the same class.
+    - However, you can simulate method overloading using magic methods, such as __call() and __callStatic().
+    - Defining methods in Same class.
+
+Keywords :
+    - __call
+    - __callStatic
+
+Method Overriding :
+    - Method overriding, on the other hand, is the ability of a subclass to provide a specific implementation of a method that is already provided by one of its superclasses. 
+    - This allows a subclass to provide a specialized implementation of a method that is already defined in its superclass.
+    - Defining methods in child class with same (name & signature & arguements) as parent class.
+    - If a method created with same name but with different arguements (Non-static / Static also ❌). It will throw an error.

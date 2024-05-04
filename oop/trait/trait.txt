@@ -1,0 +1,7 @@
+Trait :
+    - Trait is a mechanism to create reusable pieces of code that can be used in multiple classes. 
+    - Traits are similar to classes, but they cannot be instantiated on their own.
+
+Keywords :
+    - trait.
+    - use.

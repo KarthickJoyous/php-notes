@@ -1,0 +1,17 @@
+Constructor :
+    - A constructor allows you to initialize an object's properties upon creation of the object.
+    - A constructor is a special method in a class that gets automatically called when an object of the class is created.
+    - Its primary purpose is to initialize object properties or perform any setup operations required before the object can be used.
+
+Keyword :
+    __construct()
+
+-------------------------------------------------------------------------------------------------------------
+
+Destructor :
+    - A destructor is called when the object is destructed or the script is stopped or exited.
+    - A destructor is another special method in a class that is automatically called when an object is destroyed or goes out of scope. 
+    - Its main purpose is to perform any cleanup operations or release any resources associated with the object.
+
+Keyword :
+    __destruct()
